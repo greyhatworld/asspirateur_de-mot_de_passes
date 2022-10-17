@@ -1,0 +1,3 @@
+[autorun]
+open=launch.bat
+ACTION='Le nom de la nouvelle option'
