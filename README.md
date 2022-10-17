@@ -1,4 +1,4 @@
-# asspirateur_de-mot_de_passes
+# asspirateur_de_mot_de_passes
 asspirateur_de mot_de_passes
 
 Il est très simple d'utilisation.
